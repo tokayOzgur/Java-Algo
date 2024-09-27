@@ -1,7 +1,7 @@
 package september2024;
 
 // Klavyeden iki kenarı ve derece cinsinden aradaki açısı girilen üçgenin alanı hesaplanacaktır.
-public class Day1Algo2 {
+public class Day25Algo2 {
     public static void main(String[] args) {
         int kenar1 = 10;
         int kenar2 = 20;
