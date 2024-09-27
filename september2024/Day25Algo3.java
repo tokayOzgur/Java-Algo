@@ -1,7 +1,7 @@
 package september2024;
 
 // n sayısına kadar olan sayıların tamsayıların, tek sayıların ve çift sayıların toplamlarını ekrana yazdıran program
-public class Day1Algo3 {
+public class Day25Algo3 {
     public static void main(String[] args) {
         int n = 50;
         int toplam = 0;
