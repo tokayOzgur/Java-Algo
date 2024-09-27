@@ -1,7 +1,7 @@
 package september2024;
 
 // Klavyeden bir kenar uzunluğu ve o kenara ait yükseklik bilgisi alınarak üçgenin alanı hesaplanacaktır.
-public class Day1Algo1 {
+public class Day25Algo1 {
     public static void main(String[] args) {
         int kenar = 5;
         int yukseklik = 10;
