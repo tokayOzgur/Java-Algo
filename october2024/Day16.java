@@ -4,6 +4,11 @@ package october2024;
 public class Day16 {
     public static void main(String[] args) {
         int smallNum = 3;
-        int bigNum ;
+        int bigNum = 44;
+
+        for (int i = smallNum; i < bigNum; i++) {
+            if (i % 7 == 0)
+                System.out.println(i + " sayısı 7 nin katıdır");
+        }
     }
 }
